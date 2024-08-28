@@ -1,0 +1,11 @@
+#root {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: left;
+  }
+  
